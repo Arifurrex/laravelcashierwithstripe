@@ -47,7 +47,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - we will get this message The Stripe webhook was created successfully. Retrieve the webhook secret in your Stripe dashboard and define it as an environment variable.
 - after that you will go to cmd again and write this 
 - listen --forward-to http://stripe.test/stripe/webhook
-- it will give a secrect key like this Your webhook signing secret is whsec_0fc1b997a14343efd80e08e0d2286b4f83805bf122911eb27580f60db7c8cc18
+- it will give a secrect key like this Your webhook signing secret is whsec_0fcfgf1b997a14345443jlefd80e08e0d2286b4f8354805bf1jlj22911eb2547580f60db547c8cc18
 - copy this key and go to .env file and write STRIPE_WEBHOOK_SECRET="key will go here"
  
  this is configuration of webhook stripe 
