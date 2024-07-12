@@ -9,8 +9,10 @@
 
 ## subscription with laravel cashier and stripe
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Table of Contents
 
+<details><summary>Click to expand</summary>
+    
 - [install laravel](https://laravel.com/docs/11.x#creating-a-laravel-project).
 - [install breeze for authentication](https://laravel.com/docs/11.x/starter-kits#laravel-breeze).
 - [install cashier](https://laravel.com/docs/11.x/billing#main-content).
@@ -21,7 +23,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 - [checkout with stripe](https://laravel.com/docs/queues).
 - [check user subscription](https://laravel.com/docs/broadcasting).
 
-
+</details>
 
 ## install laravel
 
